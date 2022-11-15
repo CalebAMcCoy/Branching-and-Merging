@@ -3,3 +3,5 @@ I am making a feature.
 The feature works.
 Created another feature.
 The feature works again.
+Had to clear screen.
+Found out I cheated, sorry.
